@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Madeira-Hotel.Web/static/css/main.7937548d.chunk.css",
+    "main.js": "/Madeira-Hotel.Web/static/js/main.57dd3e29.chunk.js",
+    "main.js.map": "/Madeira-Hotel.Web/static/js/main.57dd3e29.chunk.js.map",
+    "runtime-main.js": "/Madeira-Hotel.Web/static/js/runtime-main.b7674fd8.js",
+    "runtime-main.js.map": "/Madeira-Hotel.Web/static/js/runtime-main.b7674fd8.js.map",
+    "static/css/2.ede86a65.chunk.css": "/Madeira-Hotel.Web/static/css/2.ede86a65.chunk.css",
+    "static/js/2.b2180b67.chunk.js": "/Madeira-Hotel.Web/static/js/2.b2180b67.chunk.js",
+    "static/js/2.b2180b67.chunk.js.map": "/Madeira-Hotel.Web/static/js/2.b2180b67.chunk.js.map",
+    "index.html": "/Madeira-Hotel.Web/index.html",
+    "precache-manifest.d896f0c0f08c3b9af935acd94be88f3f.js": "/Madeira-Hotel.Web/precache-manifest.d896f0c0f08c3b9af935acd94be88f3f.js",
+    "service-worker.js": "/Madeira-Hotel.Web/service-worker.js",
+    "static/css/2.ede86a65.chunk.css.map": "/Madeira-Hotel.Web/static/css/2.ede86a65.chunk.css.map",
+    "static/css/main.7937548d.chunk.css.map": "/Madeira-Hotel.Web/static/css/main.7937548d.chunk.css.map",
+    "static/js/2.b2180b67.chunk.js.LICENSE.txt": "/Madeira-Hotel.Web/static/js/2.b2180b67.chunk.js.LICENSE.txt",
+    "static/media/DSC_7890-HDR.jpg": "/Madeira-Hotel.Web/static/media/DSC_7890-HDR.c783c37b.jpg",
+    "static/media/App.css": "/Madeira-Hotel.Web/static/media/error.6edb36f3.jpg",
+    "static/media/DSC_7914-HDR-Editar.jpg": "/Madeira-Hotel.Web/static/media/DSC_7914-HDR-Editar.fd4cacaa.jpg",
+    "static/media/DSC_8128-HDR-Editar.jpg": "/Madeira-Hotel.Web/static/media/DSC_8128-HDR-Editar.92392d15.jpg",
+    "static/media/about.svg": "/Madeira-Hotel.Web/static/media/about.c6ed81dd.svg",
+    "static/media/customer.svg": "/Madeira-Hotel.Web/static/media/customer.e65a6536.svg",
+    "static/media/customer1.svg": "/Madeira-Hotel.Web/static/media/customer1.f6f05af4.svg",
+    "static/media/customer3.svg": "/Madeira-Hotel.Web/static/media/customer3.9dac5586.svg",
+    "static/media/en.svg": "/Madeira-Hotel.Web/static/media/en.d1e8cb2d.svg",
+    "static/media/es.svg": "/Madeira-Hotel.Web/static/media/es.c193004b.svg",
+    "static/media/loading-arrow.gif": "/Madeira-Hotel.Web/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/notfound.svg": "/Madeira-Hotel.Web/static/media/notfound.8c3d2a79.svg",
+    "static/media/room-3.jpeg": "/Madeira-Hotel.Web/static/media/room-3.9a1103b5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7674fd8.js",
+    "static/css/2.ede86a65.chunk.css",
+    "static/js/2.b2180b67.chunk.js",
+    "static/css/main.7937548d.chunk.css",
+    "static/js/main.57dd3e29.chunk.js"
+  ]
+}
